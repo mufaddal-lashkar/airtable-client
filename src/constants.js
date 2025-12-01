@@ -1,2 +1,2 @@
 // API Base URL - Change this for production deployment
-export const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://https://airtable-client.vercel.app';
+export const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://airtable-client.vercel.app';
